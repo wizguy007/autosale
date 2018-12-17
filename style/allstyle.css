@@ -1,0 +1,143 @@
+body{
+	background:  #d6d6c2;
+}
+
+footer{
+	color: #d6d6c2;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.navbar{
+	margin-bottom: 0px;
+	background: #000033;
+	border: none;
+	border-radius: 0px;
+}
+
+#main{
+	min-height: 435px;
+}
+
+#header-img{
+	margin-bottom: 20px;
+}
+
+.header-img{
+	width: 50%;
+	min-height: 470px;
+	margin-left: 25%;
+}
+
+section#header-img{
+	background: black;
+}
+
+.tittle{
+	text-align: center;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.submain{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #c1c1a4;
+}
+
+.modellist{
+	padding-left: 50px;
+	margin-bottom: 10px;
+}
+
+#carlogo{
+	width: 35px;
+	height: 35px;
+}
+
+#carloganme{
+	margin-left: 10px;
+	text-transform: capitalize;
+}
+
+.modelbox{
+	box-shadow: 0 0 6px rgba(0,0,0,.2); 
+	margin-bottom: 20px;
+	margin-right: 1%;
+	margin-left: 1%;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	width: 31%;
+}
+
+.modelmain{
+	padding-top: 10px;
+}
+
+.carname{
+	text-transform: capitalize;
+	font-size: 22px;
+	font-family: Helvetica,Arial,"sans-serif";
+}
+
+.carprice{
+	float: right;
+}
+
+.price{
+	font-size: 10px;
+}
+
+#contactus{
+	border-bottom: none;
+}
+
+.foottittle{
+	font-size: 16px;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#footermain{
+	padding-top: 20px;
+}
+
+
+#morelist{
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#social{
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#social li{
+	list-style-type: none;
+	padding-left: 0px;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+#lastfoot{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+#signupform{
+	float: right;
+}
+
+#undermain{
+	margin-top: 15px;
+}
