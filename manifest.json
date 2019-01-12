@@ -1,0 +1,14 @@
+{
+    "name": "AutoSale",
+    "short_name": "autosale53",
+    "gcm_sender_id": "539876079581",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://cdn.pushalert.co/icons/default_icon-7263_2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

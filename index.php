@@ -173,6 +173,17 @@
 	include_once "footer.php";
 ?>
 
+<!-- PushAlert -->
+        <script type="text/javascript">
+                (function(d, t) {
+                        var g = d.createElement(t),
+                        s = d.getElementsByTagName(t)[0];
+                        g.src = "https://cdn.pushalert.co/integrate_9d2891e36b0a17e3525b37c28a4c618d.js";
+                        s.parentNode.insertBefore(g, s);
+                }(document, "script"));
+        </script>
+        <!-- End PushAlert -->
+
 <script type="text/javascript">
 $(document).ready(function(){
 	$("#carmodel").change(function(){
